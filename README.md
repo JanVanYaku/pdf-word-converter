@@ -30,7 +30,7 @@ On Windows or macOS, install LibreOffice from the official LibreOffice website, 
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pdf-word-converter.git
+git clone https://github.com/JanVanYaku/pdf-word-converter.git
 cd pdf-word-converter
 python -m venv .venv
 source .venv/bin/activate
