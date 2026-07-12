@@ -1,3 +1,8 @@
+#######################################################################
+# Author: Lehlohonolo Adolf Matobakele  
+# Email: lehlohonolo.matobakele@gov.ls
+# Contacxt: 00266 62320704
+#######################################################################
 # PDF Word Converter
 
 A simple Python command-line tool that converts:
